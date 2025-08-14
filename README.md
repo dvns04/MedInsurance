@@ -11,7 +11,3 @@ It uses a **machine learning model** trained on a public insurance dataset to es
 - Model training & evaluation
 - Predictive interface (can be adapted for deployment)
 - Jupyter Notebook (`.ipynb`) implementation
-
----
-
-## 📂 Project Structure
